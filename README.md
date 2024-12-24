@@ -1,3 +1,3 @@
 # Bookbot
 
-BookBot is my first project!
+Completed as part of the [Boot.dev BookBot module](https://www.boot.dev/courses/build-bookbot-python).
